@@ -1,4 +1,4 @@
-#nclude <stdio.h>
+#Include <stdio.h>
 
 int main(){
     printf("Hello World");
